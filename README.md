@@ -19,3 +19,4 @@ Once the configuration is done, restart Emacs to load, install and configure
 your layer.
 
 [conf_layers]: https://github.com/syl20bnr/spacemacs/blob/master/doc/DOCUMENTATION.org#extensions-and-packages
+
